@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "605930417530",
+    "firebase_url": "https://fir-sample-7c723.firebaseio.com",
+    "project_id": "fir-sample-7c723",
+    "storage_bucket": "fir-sample-7c723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605930417530:android:41e88bf924e25a651d7ac3",
+        "android_client_info": {
+          "package_name": "com.hackathon.lowes_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605930417530-1gumkntf6kjb41b49f71q2gtaabo90jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YMW45-t7qhli4x1RT_k4Pvcm0CIoSW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605930417530-1gumkntf6kjb41b49f71q2gtaabo90jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605930417530:android:df3eea79e7d1bcf51d7ac3",
+        "android_client_info": {
+          "package_name": "com.shatabhishek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605930417530-1gumkntf6kjb41b49f71q2gtaabo90jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YMW45-t7qhli4x1RT_k4Pvcm0CIoSW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605930417530-1gumkntf6kjb41b49f71q2gtaabo90jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
